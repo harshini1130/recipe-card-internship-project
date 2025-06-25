@@ -5,8 +5,6 @@ body {
   padding: 0;
 }
 
-
-/* HEADER STYLING */
 header {
   text-align: center;
   padding: 30px 10px 10px;
@@ -26,7 +24,6 @@ header {
   margin-top: 0;
 }
 
-/* RECIPE CARD */
 .card {
   background: white;
   margin: 30px auto;
@@ -87,7 +84,6 @@ li {
   display: none;
 }
 
-/* FOOTER */
 footer {
   text-align: center;
   padding: 15px;
